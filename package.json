@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/favrora/Repo.git"
+    "url": "git+https://github.com/ArsenVoar/test-project-1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/favrora/Repo/issues"
+    "url": "https://github.com/ArsenVoar/test-project-1/issues"
   },
-  "homepage": "https://github.com/favrora/Repo#readme"
+  "homepage": "https://github.com/ArsenVoar/test-project-1#readme"
 }
