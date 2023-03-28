@@ -4,7 +4,7 @@
     </a>
     <img alt="Contributors" src="https://img.shields.io/github/contributors/ArsenVoar/test-project-1?color=blue">
     <img alt="License" src="https://img.shields.io/github/license/ArsenVoar/test-project-1?color=blue">
-    <img alt="Repository size" src="https://img.shields.io/github/test-project-1-size/ArsenVoar/test-project-1?color=blue">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArsenVoar/test-project-1?color=blue">
 </p>
 
 # About app
