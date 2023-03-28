@@ -1,5 +1,5 @@
 /* Импортируем бутстрап здесь */
-@import 'bootstrap/dist/css/bootstrap.css';
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 body {
   padding-top: 3rem;
