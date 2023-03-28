@@ -1,3 +1,6 @@
+/* Импортируем бутстрап здесь */
+@import 'bootstrap/dist/css/bootstrap.css';
+
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
