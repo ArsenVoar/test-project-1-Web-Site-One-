@@ -1,0 +1,25 @@
+{
+  "name": "my-example-web-site-part-1-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "save": "git add --all && git commit -m fix --no-verify && git push origin HEAD",
+    "prettier": "prettier --write \"src/**/*.{html,css,js,}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favrora/Repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favrora/Repo/issues"
+  },
+  "homepage": "https://github.com/favrora/Repo#readme"
+}
